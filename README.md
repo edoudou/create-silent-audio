@@ -5,7 +5,7 @@ Inspired from https://www.russellgood.com/how-to-convert-audiobuffer-to-audio-fi
 
 How to install :
 ```
-npm install create-create-silent-audio
+npm install create-silent-audio
 ```
 
 How to use it :
