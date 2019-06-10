@@ -1,6 +1,6 @@
 {
   "name": "create-silent-audio",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Generate a silent audio blob",
   "main": "index.js",
   "scripts": {
